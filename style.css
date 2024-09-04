@@ -1,0 +1,213 @@
+ nav li
+ .logo img {
+width: 10%;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+body{
+    background-image: url(web.jpg); 
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+header {
+    background-color:white ;
+}
+
+*{ margin: 0;
+}
+nav li {
+    display: inline-flex;
+    margin: 10px;
+    list-style: none;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Pour centrer l'image horizontalement */
+    border-radius: 5px; /* Pour arrondir les coins de l'image */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Pour ajouter une ombre à l'image */
+}
+
+header {
+    background-color:#f6F0F0;
+    color: #f6f0f0;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: #007bff;
+
+    }
+body 
+
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #df6363;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+about-section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.team-info {
+    margin-bottom: 20px;
+}
+
+.mission-values {
+    margin-bottom: 20px;
+}
+
+.mission-values h2 {
+    color: #333;
+}
+
+.mission-values p {
+    line-height: 1.5;
+}
+
+
+.contact-form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.contact-form input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-info p {
+    line-height: 1.5;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #bc5e5e;
+    color: white;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.login-form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.login-form input[type="email"],
+.login-form input[type="password"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.login-form button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #c25d5d;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
